@@ -3,6 +3,9 @@
 [lactor] implements the actor model with functional programming in TypeScript
 for [Deno].
 
+[![License][license-shield]](LICENSE) [![GitHub][github-shield]][github]
+[![Build][build-shield]][build] [![Code coverage][coverage-shield]][coverage]
+
 # Usage
 
 ```sh
@@ -16,18 +19,15 @@ lactor
 lactor watch
 ```
 
-[![License][license-shield]](LICENSE) [![Github tag][github-shield]][github]
-[![Build][build-shield]][build] [![Code coverage][coverage-shield]][coverage]
-
 [lactor]: #
 [Deno]: https://deno.land
 
 <!-- badges -->
 
 [github]: https://github.com/eibens/lactor
-[github-shield]: https://img.shields.io/github/v/tag/eibens/lactor?label&logo=github
+[github-shield]: https://img.shields.io/badge/repo-informational?label&logo=github
 [coverage-shield]: https://img.shields.io/codecov/c/github/eibens/lactor?logo=codecov&label
-[license-shield]: https://img.shields.io/github/license/eibens/lactor?color=informational
+[license-shield]: https://img.shields.io/badge/proprietary-informational?&label=license
 [coverage]: https://codecov.io/gh/eibens/lactor
 [build]: https://github.com/eibens/lactor/actions/workflows/ci.yml
-[build-shield]: https://img.shields.io/github/workflow/status/eibens/lactor/ci?logo=github&label
+[build-shield]: https://github.com/eibens/lactor/actions/workflows/ci.yml/badge.svg
