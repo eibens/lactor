@@ -3,8 +3,9 @@
 [lactor] implements the actor model with functional programming in TypeScript
 for [Deno].
 
-[![License][license-shield]](LICENSE) [![GitHub][github-shield]][github]
-[![Build][build-shield]][build] [![Code coverage][coverage-shield]][coverage]
+[![License][license-shield]](LICENSE) 
+[![Build][build-shield]][build] 
+[![Code coverage][coverage-shield]][coverage]
 
 # Usage
 
@@ -24,8 +25,6 @@ lactor watch
 
 <!-- badges -->
 
-[github]: https://github.com/eibens/lactor
-[github-shield]: https://img.shields.io/badge/repo-informational?label&logo=github
 [coverage-shield]: https://img.shields.io/codecov/c/github/eibens/lactor?logo=codecov&label
 [license-shield]: https://img.shields.io/badge/proprietary-informational?&label=license
 [coverage]: https://codecov.io/gh/eibens/lactor
