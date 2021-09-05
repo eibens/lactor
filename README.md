@@ -1,27 +1,12 @@
-# Lambda Actor
+# lactor
 
-[lactor] implements the actor model with functional programming in TypeScript
-for [Deno].
+[lactor] is a idiomatic and functional implementation of the actor model in
+TypeScript for Deno.
 
-[![License][license-shield]](LICENSE) 
-[![Build][build-shield]][build] 
+[![License][license-shield]](LICENSE) [![Build][build-shield]][build]
 [![Code coverage][coverage-shield]][coverage]
 
-# Usage
-
-```sh
-# Install with full permissions.
-deno install [-A] cli.ts
-
-# Build files.
-lactor
-
-# Serve website.
-lactor watch
-```
-
 [lactor]: #
-[Deno]: https://deno.land
 
 <!-- badges -->
 
